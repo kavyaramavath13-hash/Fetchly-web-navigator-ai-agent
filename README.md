@@ -64,8 +64,8 @@ To build a prototype agent that:
 ---
 
 ## 👥 Team Contribution  
-- **Frontend (UI/UX):** [Member 1]  
-- **Backend (Flask):** [Member 2]  
-- **Automation (Playwright):** [Member 3]  
-- **Documentation & Video Pitch:** [Member 4]  
+- **Frontend (UI/UX):** Ramavath Kavya Sri Bai  
+- **Backend (Flask):** Shaik Neehal Pari
+- **Automation (Playwright):** Sampathi Lokagna  
+- **Documentation & Video Pitch:** Shaik Shereen Sulthana
 -.
